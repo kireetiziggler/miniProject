@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T14:57:41 IST" name="Default suite" finished-at="2024-01-11T14:57:53 IST" duration-ms="12367">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T14:57:41 IST" name="Default test" finished-at="2024-01-11T14:57:53 IST" duration-ms="12367">
+      <class name="com.miniProject.pomTestPF">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:com.miniProject.pomTestPF@350aac89]" started-at="2024-01-11T14:57:41 IST" name="createDriver" finished-at="2024-01-11T14:57:47 IST" duration-ms="6028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="validatePage()[pri:1, instance:com.miniProject.pomTestPF@350aac89]" started-at="2024-01-11T14:57:47 IST" name="validatePage" finished-at="2024-01-11T14:57:49 IST" duration-ms="1702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage -->
+        <test-method signature="totalLinks()[pri:2, instance:com.miniProject.pomTestPF@350aac89]" started-at="2024-01-11T14:57:49 IST" name="totalLinks" finished-at="2024-01-11T14:57:52 IST" duration-ms="2896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalLinks -->
+        <test-method signature="windowHandling()[pri:3, instance:com.miniProject.pomTestPF@350aac89]" started-at="2024-01-11T14:57:52 IST" name="windowHandling" finished-at="2024-01-11T14:57:52 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowHandling -->
+        <test-method is-config="true" signature="quitbrowser()[pri:0, instance:com.miniProject.pomTestPF@350aac89]" started-at="2024-01-11T14:57:52 IST" name="quitbrowser" finished-at="2024-01-11T14:57:53 IST" duration-ms="1200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrowser -->
+      </class> <!-- com.miniProject.pomTestPF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
